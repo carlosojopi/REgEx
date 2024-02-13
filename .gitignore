@@ -1,0 +1,9 @@
+# Ignorar los archivo .class
+*.class
+.metadata
+.git
+.REgEx
+bin
+.settings
+.classpath
+.project
